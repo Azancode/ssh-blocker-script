@@ -1,4 +1,5 @@
 #!/bin/bash
+set -euo pipefail
 
 # Path for custom log
 LOGFILE="/var/log/ssh-blocker.log"
